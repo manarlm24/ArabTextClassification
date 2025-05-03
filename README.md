@@ -20,10 +20,10 @@ python -m venv .venv
 
 # Install required packages
 
-pip install camel-tools
-pip install arabic-stopwords
-pip install nltk
-pip install pandas
-pip install scikit-learn
-pip install matplotlib
-pip install seaborn
+pip install camel-tools <br/>
+pip install arabic-stopwords <br/>
+pip install nltk <br/>
+pip install pandas <br/>
+pip install scikit-learn <br/>
+pip install matplotlib <br/>
+pip install seaborn <br/>
