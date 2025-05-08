@@ -27,3 +27,4 @@ pip install pandas <br/>
 pip install scikit-learn <br/>
 pip install matplotlib <br/>
 pip install seaborn <br/>
+pip install camel-tools <br/>
