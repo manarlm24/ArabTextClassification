@@ -1,14 +1,16 @@
 📚 Description:
 
-This project focuses on classifying Arabic news articles into predefined categories using natural language processing (NLP) techniques and machine learning models.
+This project focuses on Arabic Sentiment Tweets Analysis into predefined categories using natural language processing (NLP) techniques and machine learning models.
 It explores Arabic-specific preprocessing like normalization, tokenization, stopword removal, stemming, lemmatization ,feature selection to improve classification performance.
 
+
 📊 Dataset
--Name: Arabic Newswire Dataset
+-Name: ASTD (Twitter Dataset for Arabic Sentiment Analysis Dataset).
 
--Source: https://www.kaggle.com/datasets/haithemhermessi/sanad-dataset
 
--Classes: (e.g., Politics, Sports, Technology, Health...)
+-Source: https://metatext.io/datasets/astd:-arabic-sentiment-tweets-dataset.
+
+-Classes: (e.g., NEH, POS, Neutral,OBJ)
 
 # Create a virtual environment
 
