@@ -28,3 +28,7 @@ pip install scikit-learn <br/>
 pip install matplotlib <br/>
 pip install seaborn <br/>
 pip install camel-tools <br/>
+camel_data -i all<br/>
+pip install pyarabic nltk sklearn<br/>
+pip install imblearn <br/>
+pip install gensim <br/>
