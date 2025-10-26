@@ -10,7 +10,7 @@ It explores Arabic-specific preprocessing like normalization, tokenization, stop
 
 -Source: https://metatext.io/datasets/astd:-arabic-sentiment-tweets-dataset.
 
--Classes: (e.g., NEH, POS, Neutral,OBJ)
+-Classes: (e.g., NEG, POS, Neutral,OBJ)
 
 # Create a virtual environment
 
